@@ -1,0 +1,13 @@
+Inicializar um projeto Node;
+ npm init --yes;
+Instalar o Cypress;
+ npm install -D cypress
+ npm install -D cypress@12.5.0
+Abrir o Cypress
+ npx cypress open 
+
+https://devfinance-agilizei.netlify.app/#
+
+https://docs.cypress.io/guides/references/assertions
+
+ npx cypress run --config viewportHeight=1000,viewportWidth=600
